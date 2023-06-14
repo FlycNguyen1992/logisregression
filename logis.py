@@ -14,6 +14,7 @@ df = pd.read_csv("credit access.csv", encoding='latin-1')
 
 st.title("Hồi quy tuyến tính Nhóm 3")
 st.image("hihi1.jpeg")
+st.image("hihi.jpg")
 st.write("## Dự báo khả năng tiếp cận vốn tín dụng của nông hộ")
 
 uploaded_file = st.file_uploader("Choose a file", type=['csv'])
